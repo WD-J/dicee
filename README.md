@@ -15,7 +15,3 @@ Displaying core programming concepts and using Stateful Flutter widgets.
 - Understand and use string interpolation.
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp.
